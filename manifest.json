@@ -1,0 +1,50 @@
+{
+   "name" : "eventos",
+   "start_url" : "index.html",
+     "scope" : ".",
+     "display" : "standalone",
+     "orientation" : "portrait-primary",
+     "background-color" : "#fffff",
+     "lang" : "en-US"	,
+     "theme_color": "#3f51b5",
+     "description": "Events are species of life",
+     "dir": "ltr",
+    "short_name":"eventos",
+    "icons": [
+    {
+      "src": "app-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "app-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "app144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "app-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "app-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "app-384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "app-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }]
+    
+}
